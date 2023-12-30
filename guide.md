@@ -1,4 +1,5 @@
 # Gợi ý thiết kế hệ thống
+Các gợi ý dưới đây phục vụ cho khoá học **Software Architect - Design System** tại [200Lab.io](https://200lab.io)
 
 - **Step 0**: Phải hiểu rõ về sản phẩm và nhu cầu (ở đây là đề bài). Trong trường hợp chưa rõ, ta cần cố gắng hỏi lại để rõ ràng nhất có thể. [Có thể tiến hành lập danh sách các **FR** và **NFR** có liên quan nếu đủ thông tin].
 
